@@ -19,6 +19,6 @@ documentation.
 ### Usage
 
 ```bash
-git clone https://github.com/zh4k2y1k/usingCoingeckoAPI
+git clone https://github.com/zh4k2y1k/BeautifulSoupPython
 ```
 
